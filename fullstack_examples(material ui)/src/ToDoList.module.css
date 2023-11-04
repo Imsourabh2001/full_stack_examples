@@ -1,0 +1,10 @@
+.Red{
+    background-color:rgb(227, 249, 98);
+    align-items: center;
+    align-content: center;
+}
+.Card{
+    padding: 10px;
+    height: 550px;
+    width: 550px;
+}
